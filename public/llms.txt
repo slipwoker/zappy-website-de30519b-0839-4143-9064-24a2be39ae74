@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Smart Insight מובילה את עולם ה-BI והאנליזה בישראל. אנו הופכים נתונים גולמיים לתובנות עסקיות חדות שמניעות צמיחה אמיתית. גלו כיצד מועדוני לקוחות וארגונים מובילים משנים את פני העסק שלהם.
+
+### שירותים
+https://example.com/services
+מחבילות BI מתקדמות ועד ניתוח מועדוני לקוחות בזמן אמת — השירותים של Smart Insight מותאמים בדיוק לצרכי הארגון שלכם. גלו את מגוון הפתרונות שיהפכו את הנתונים שלכם לנכס אסטרטגי.
+
+### אודות
+https://example.com/about
+אורי דודזון וצוות Smart Insight בנו חברה שמאמינה שכל החלטה עסקית טובה מתחילה בנתון אחד נכון. היכירו את החזון, הערכים והמומחיות שהפכו אותנו לשם דבר בעולם ה-BI ואנליזה בישראל.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על BI, מועדוני לקוחות או פתרונות אנליזה? צוות Smart Insight זמין עבורכם. צרו קשר עוד היום ותקבלו ייעוץ ראשוני מותאם לעסק שלכם — בלי התחייבות, עם המון ערך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
