@@ -448,9 +448,9 @@ Smart Insight מתמחה בתרגום שאלות עסקיות לתובנות ב�
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -1092,9 +1092,9 @@ Excel
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -1556,9 +1556,9 @@ Smart Insight שינתה לחלוטין את האופן שבו אנחנו מנה
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -1705,7 +1705,7 @@ BI ואנליזה עסקית
 
 ### דוא"ל
 
-[business_email]
+Info@smart-insight.com
 
 אנו מתחייבים לחזור אליך תוך יום עסקים אחד
 
@@ -1720,7 +1720,7 @@ BI ואנליזה עסקית
 
 ### טלפון
 
-[business_phone]
++972-54-6444032
 
 זמינים בימים א׳–ה׳, 9:00–18:00
 
@@ -1890,11 +1890,11 @@ WhatsApp
 
 
 
-[business_email]
+Info@smart-insight.com
 
 
 
-[business_phone]
++972-54-6444032
 
 
 
@@ -2021,9 +2021,9 @@ Smart Insight עובדת עם ארגונים ממגוון גדלים — מחב�
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -2220,9 +2220,9 @@ Smart Insight ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 - חברה: Smart Insight
 
-- אימייל: [business_email]
+- אימייל: Info@smart-insight.com
 
-- טלפון: [business_phone]
+- טלפון: +972-54-6444032
 
 - כתובת: [business_address]
 
@@ -2277,9 +2277,9 @@ Smart Insight ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -2484,9 +2484,9 @@ Smart Insight מחויבת להנגיש את השירותים לכלל הציב�
 
 - חברה: Smart Insight
 
-- אימייל: [business_email]
+- אימייל: Info@smart-insight.com
 
-- טלפון: [business_phone]
+- טלפון: +972-54-6444032
 
 
 
@@ -2542,9 +2542,9 @@ Smart Insight מחויבת להנגיש את השירותים לכלל הציב�
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 
@@ -2772,9 +2772,9 @@ Smart Insight מספקת Business Intelligence & Analytics דרך האתר. הש
 
 - חברה: Smart Insight
 
-- אימייל: [business_email]
+- אימייל: Info@smart-insight.com
 
-- טלפון: [business_phone]
+- טלפון: +972-54-6444032
 
 - כתובת: [business_address]
 
@@ -2826,9 +2826,9 @@ Smart Insight מספקת Business Intelligence & Analytics דרך האתר. הש
 #### יצירת קשר
 
 
-- [business_email]
+- Info@smart-insight.com
 
-- [business_phone]
+- +972-54-6444032
 
 - [business_address]
 

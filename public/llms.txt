@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: Info@smart-insight.com
+- Phone: +972-54-6444032
+- Phone (tel): tel:+972546444032
 
 ### Contact form
 - URL: https://example.com/contact
